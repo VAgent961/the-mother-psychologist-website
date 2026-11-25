@@ -1,0 +1,29 @@
+{
+  "siteName": "lead-the-mother-psychologist-b9w77f",
+  "description": "",
+  "lang": "en",
+  "colors": {
+    "primary": "#2563EB",
+    "secondary": "#F59E0B",
+    "accent": "#10B981",
+    "background": "#FFFFFF",
+    "surface": "#FFFFFF",
+    "ink": "#111827",
+    "muted": "#6B7280",
+    "dark": "#111827"
+  },
+  "fonts": {
+    "heading": "Inter",
+    "body": "Inter"
+  },
+  "extend": {
+    "colors": {},
+    "fontFamily": {},
+    "fontSize": {},
+    "spacing": {},
+    "borderRadius": {},
+    "boxShadow": {}
+  },
+  "extraCss": "@layer base{html,body{margin:0;padding:0;}body{overscroll-behavior:none;}main>:first-child{margin-top:0!important;}main>:last-child{margin-bottom:0!important;}}::-webkit-scrollbar{display:none;}",
+  "iconFont": "material-symbols"
+}
